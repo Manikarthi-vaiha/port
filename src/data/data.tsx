@@ -40,8 +40,8 @@ import {
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume Template',
-  description: "Example site built with Tim Baker's react resume template",
+  title: 'Mani-portfolio',
+  description: "Skills & Project experiance has been updated on the site, chat with me if any enquiries, thank you",
 };
 
 /**
@@ -70,7 +70,7 @@ export const heroData: Hero = {
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
       Hey! I'm Abdul Rahman, I've been close to a computer since an early age, and been passionate about it ever since.
-        {/* I'm a India based <strong className="text-stone-100">Mobile Application Developer</strong>, <strong className="text-stone-100"> Relevantz Technology Services 
+        {/* I'm a India based <strong className="text-stone-100">Mobile Application Developer</strong>, <strong className="text-stone-100"> Relevantz Technology Services
           </strong> helping build a modern, mobile-first, domain
         registrar and site builder. */}
       </p>
